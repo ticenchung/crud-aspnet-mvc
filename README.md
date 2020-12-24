@@ -1,2 +1,2 @@
-# Asp.NET MVC + SQL Server - CRUD 
-CRUD simples de Cadastro de Clientes.
+# Asp.NET Core MVC - Cadastro de Clientes (CRUD)
+Aplicação web com CRUD simples utilizando Entity Framework para ORM e SQL Server para banco de dados relacional.
